@@ -1,0 +1,30 @@
+html{
+  font-size: 20px;
+  text-align: center
+}
+
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+
+}
+.blue {
+  color: skyblue;
+} 
+.pink{
+  color: rgb(255, 192, 203);
+}
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Noto+Sans+JP:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Zen+Old+Mincho&display=swap');
+
+h1{
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 2rem;
+  letter-spacing: 1.2em;
+  text-shadow: 2px 3px 3px rgba(0, 0, 0, 0.4);
+  border-bottom: 3px solid rgb(115, 115, 114);
+}
+#basic p {
+ font-weight: bold;
+}
